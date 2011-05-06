@@ -15,7 +15,7 @@
 @synthesize result;
 @synthesize searchField;
 
-NSString *const FlickrAPIKey = @"5cc2b1241240271ea45d401507bb9a47";
+NSString *const FlickrAPIKey = @"Your API KEY";
 
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
